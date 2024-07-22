@@ -6,6 +6,6 @@ It's 1.21.3 version.
 **Tamplate：Node.js**
 Add `pkgs.busybox` in *replit.nix* file, then 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/k0baya/UptimeKuma_repl/main/update.sh)
+bash <(curl -s https://raw.githubusercontent.com/snove520/UptimeKuma_repl/main/update.sh)
 ```
 Then click the button "Run".
